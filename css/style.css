@@ -152,7 +152,7 @@
     flex-flow: wrap;
   }
   
-  .office-project {
+  .work-project {
     width: 400px;
     height: 400px;
     display:flex;
@@ -163,12 +163,12 @@
     box-shadow: -15px 7px 30px rgba(0,0,0,0.2);
     border-radius: 10px;
     margin: 50px;
-    background-image: url("../../assets/images/github.jpeg");
+    background-image: url("../images/city.JPG");
     background-size: cover;
     background-position: center;
   }
   
-  .website-project {
+  .illustration-project {
     width: 400px;
     height: 400px;
     display:flex;
@@ -179,12 +179,12 @@
     box-shadow: -15px 7px 30px rgba(0,0,0,0.2);
     border-radius: 10px;
     margin: 50px;
-    background-image: url("../images/Module\ 1\ Challenge\ image.jpeg");
+    background-image: url("../images/pegasus.jpg");
     background-size: cover;
     background-position: center;
   }
   
-  .prework-project {
+  .comic-project {
     width: 400px;
     height: 400px;
     display:flex;
@@ -195,58 +195,11 @@
     box-shadow: -15px 7px 30px rgba(0,0,0,0.2);
     border-radius: 10px;
     margin: 50px;
-    background-image: url("../images/Prework\ image.jpeg");
+    background-image: url("../images/SP1.jpg");
     background-size: cover;
     background-position: left center;
   }
   
-  .group-project {
-    width: 400px;
-    height: 400px;
-    display:flex;
-    flex-direction:column;
-    flex-wrap: wrap;
-    background: #fff;
-    position: relative;
-    box-shadow: -15px 7px 30px rgba(0,0,0,0.2);
-    border-radius: 10px;
-    margin: 50px;
-    background-image: url("../images/quizgame\ image.jpeg");
-    background-size: cover;
-    background-position: left center;
-  }
-  
-  .video-game-review {
-    width: 400px;
-    height: 400px;
-    display:flex;
-    flex-direction:column;
-    flex-wrap: wrap;
-    background: #fff;
-    position: relative;
-    box-shadow: -15px 7px 30px rgba(0,0,0,0.2);
-    border-radius: 10px;
-    margin: 50px;
-    background-image: url("../images/reviewer\ image.jpeg");
-    background-size: cover;
-    background-position: center;
-  }
-  
-  .gregs-list {
-    width: 400px;
-    height: 400px;
-    display:flex;
-    flex-direction:column;
-    flex-wrap: wrap;
-    background: #fff;
-    position: relative;
-    box-shadow: -15px 7px 30px rgba(0,0,0,0.2);
-    border-radius: 10px;
-    margin: 50px;
-    background-image: url("../images/gregs-list.jpeg");
-    background-size: cover;
-    background-position: center;
-  }
   .comics-section{
     width: 400px;
     height: 400px;
