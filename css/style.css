@@ -151,85 +151,6 @@
     justify-content: center;
     flex-flow: wrap;
   }
-  
-  .work-project {
-    width: 400px;
-    height: 400px;
-    display:flex;
-    flex-direction:column;
-    flex-wrap: wrap;
-    background: #fff;
-    position: relative;
-    box-shadow: -15px 7px 30px rgba(0,0,0,0.2);
-    border-radius: 10px;
-    margin: 50px;
-    background-image: url("../images/city.JPG");
-    background-size: cover;
-    background-position: center;
-  }
-  
-  .illustration-project {
-    width: 400px;
-    height: 400px;
-    display:flex;
-    flex-direction:column;
-    flex-wrap: wrap;
-    background: #fff;
-    position: relative;
-    box-shadow: -15px 7px 30px rgba(0,0,0,0.2);
-    border-radius: 10px;
-    margin: 50px;
-    background-image: url("../images/pegasus.jpg");
-    background-size: cover;
-    background-position: center;
-  }
-  
-  .comic-project {
-    width: 400px;
-    height: 400px;
-    display:flex;
-    flex-direction:column;
-    flex-wrap: wrap;
-    background: #fff;
-    position: relative;
-    box-shadow: -15px 7px 30px rgba(0,0,0,0.2);
-    border-radius: 10px;
-    margin: 50px;
-    background-image: url("../images/SP1.jpg");
-    background-size: cover;
-    background-position: left center;
-  }
-  
-  .comics-section{
-    width: 400px;
-    height: 400px;
-    display:flex;
-    flex-direction:column;
-    flex-wrap: wrap;
-    background: #fff;
-    position: relative;
-    box-shadow: -15px 7px 30px rgba(0,0,0,0.2);
-    border-radius: 10px;
-    margin: 50px;
-    background-image: url("../images/webtoons.jpeg");
-    background-size: cover;
-    background-position: center;
-  }
-  .illustration-section{
-    width: 400px;
-    height: 400px;
-    display:flex;
-    flex-direction:column;
-    flex-wrap: wrap;
-    background: #fff;
-    position: relative;
-    box-shadow: -15px 7px 30px rgba(0,0,0,0.2);
-    border-radius: 10px;
-    margin: 50px;
-    background-image: url("../images/artstation.jpeg");
-    background-size: cover;
-    background-position: center;
-  }
   .text-container {
     position: absolute;
     height: 75px;
@@ -322,7 +243,7 @@
   ul {
     background-color: rgba(0,0,0,0.625);
   }
-  .office-project {
+  .office-work {
     width: 400x;
     height: 400px;
     background: #fff;
@@ -330,72 +251,7 @@
     box-shadow: -15px 7px 30px rgba(0,0,0,0.2);
     border-radius: 10px;
     margin: 50px;
-    background-image: url("../images/nova\(re\).jpg");
-    background-size: cover;
-    background-position: center;
-  }
-  .website-project {
-    width: 400px;
-    height: 400px;
-    background: #fff;
-    position: relative;
-    box-shadow: -15px 7px 30px rgba(0,0,0,0.2);
-    border-radius: 10px;
-    margin: 50px;
-    background-image: url("../images/pegasus.jpg");
-    background-size: cover;
-    background-position: center;
-  }
-  
-  .prework-project {
-    width: 400px;
-    height: 400px;
-    background: #fff;
-    position: relative;
-    box-shadow: -15px 7px 30px rgba(0,0,0,0.2);
-    border-radius: 10px;
-    margin: 50px;
-    background-image: url("../images/pegasus.jpg");
-    background-size: cover;
-    background-position: right center;
-  }
-  .group-project {
-    width: 400px;
-    height: 400px;
-    background: #fff;
-    position: relative;
-    box-shadow: -15px 7px 30px rgba(0,0,0,0.2);
-    border-radius: 10px;
-    margin: 50px;
-    background-image: url("../images/SP1.jpg");
-    background-size: cover;
-    background-position: left center;
-  }
-  
-  .video-game-review {
-    width: 400px;
-    height: 400px;
-    background: #fff;
-    position: relative;
-    box-shadow: -15px 7px 30px rgba(0,0,0,0.2);
-    border-radius: 10px;
-    margin: 50px;
-    background-image: url("../images/city.JPG");
-    background-size: cover;
-    background-position: left center;
-  }
-  .gregs-list {
-    width: 400px;
-    height: 400px;
-    display:flex;
-    flex-direction:column;
-    flex-wrap: wrap;
-    background: #fff;
-    position: relative;
-    box-shadow: -15px 7px 30px rgba(0,0,0,0.2);
-    border-radius: 10px;
-    margin: 50px;
-    background-image: url("../images/nova\(re\).jpg");
+    background-image: url("../images/artstation.jpeg");
     background-size: cover;
     background-position: center;
   }
@@ -414,7 +270,7 @@
     background-size: cover;
     background-position: center;
   }
-  .illustration-section{
+  .illustration-item{
     width: 400px;
     height: 400px;
     display:flex;
