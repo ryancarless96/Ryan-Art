@@ -255,22 +255,8 @@
     background-size: cover;
     background-position: center;
   }
-  .comics-section{
-    width: 400px;
-    height: 400px;
-    display:flex;
-    flex-direction:column;
-    flex-wrap: wrap;
-    background: #fff;
-    position: relative;
-    box-shadow: -15px 7px 30px rgba(0,0,0,0.2);
-    border-radius: 10px;
-    margin: 50px;
-    background-image: url("../images/pegasus.jpg");
-    background-size: cover;
-    background-position: center;
-  }
-  .illustration-item{
+  
+  .coding-work{
     width: 400px;
     height: 400px;
     display:flex;
